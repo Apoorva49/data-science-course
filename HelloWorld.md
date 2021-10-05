@@ -1,4 +1,3 @@
-[RMD-file.docx](https://github.com/Apoorva49/data-science-course/files/7283579/RMD-file.docx)
 ---
 title: "Hello world"
 author: "Apoorva"
@@ -33,4 +32,3 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
